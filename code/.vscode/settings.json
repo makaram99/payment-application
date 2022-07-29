@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "card.h": "c",
+        "app.h": "c",
+        "terminal.h": "c",
+        "ctype.h": "c",
+        "server.h": "c",
+        "state.h": "c",
+        "stdint.h": "c",
+        "stdio.h": "c"
+    },
+    "cSpell.enabled": false
+}
