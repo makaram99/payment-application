@@ -23,3 +23,6 @@ This is a simple payment application done as a project for the [egFWD](https://e
 1. Open the [`code`](code/) directory in command line
 2. Run this command: ```gcc Application\app.c Application\state.c Card\card.c Server\server.c Terminal\terminal.c -Wall -Werror```
 3. Then run this command ```a.exe```
+
+
+**Thanks**
